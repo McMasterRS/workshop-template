@@ -1,6 +1,6 @@
 title: RSD Workshop Title # *** Enter workshop title here
 github_repo_url: "" # ***Enter workshop URL (in github pages) here
-gh_edit_repository: "" #*** ENTER the github URL for your repo
+gh_edit_repository: "" # *** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Workshop Subtitle"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
